@@ -1,0 +1,48 @@
+configmap
+Printing out: config-example-values
+configmap
+Printing out: kube-root-ca.crt
+service
+Printing out: kubernetes
+service
+Printing out: simple-service
+replicaset
+Printing out: demo-deployment-7fd4444d
+replicaset
+Printing out: nginx-server-6b5584dbf8
+replicaset
+Printing out: simple-deployment-798b8f7db6
+replicaset
+Printing out: simple1-deployment-798b8f7db6
+deployment
+Printing out: demo-deployment
+deployment
+Printing out: nginx-server
+deployment
+Printing out: simple-deployment
+deployment
+Printing out: simple1-deployment
+pods
+Printing out: demo-deployment-7fd4444d-g8cd2
+pods
+Printing out: demo-deployment-7fd4444d-hcpg5
+pods
+Printing out: my-test-pod-new
+pods
+Printing out: nginx-server-6b5584dbf8-n8jtx
+pods
+Printing out: nginxnew
+pods
+Printing out: simple-deployment-798b8f7db6-clf5x
+pods
+Printing out: simple-deployment-798b8f7db6-nck8b
+pods
+Printing out: simple-deployment-798b8f7db6-zjdcv
+pods
+Printing out: simple1-deployment-798b8f7db6-bn5tb
+pods
+Printing out: simple1-deployment-798b8f7db6-mz9ww
+pods
+Printing out: simple1-deployment-798b8f7db6-v7fkk
+pods
+Printing out: test-pod
