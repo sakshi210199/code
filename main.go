@@ -154,7 +154,7 @@ func main() {
 	fmt.Println(len(depl.Items))
 
 	for i := 0; i < len(depl.Items); i++ {
-		fmt.Println(depl.Items[i].Spec.Template.TSpec.Containers[0].Image) //image naem
+		fmt.Println(depl.Items[i].Spec.Template.TSpec.Containers[0].Image) //image name
 		fmt.Println(depl.Items[i].Metadata.Name)
 	}
 
